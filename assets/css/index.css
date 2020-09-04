@@ -1,0 +1,48 @@
+.layui-footer{
+    text-align: center;
+    font-size: 12px;
+}
+.iconfont{
+    margin-right: 8px;
+}
+.layui-icon{
+    margin: 0 8px 0 20px;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.layui-body{
+    overflow: hidden;
+}
+a{
+    translate:none!important;
+}
+.userinfo{
+    height: 60px;
+    line-height: 60px;
+    font-size: 12px;
+    text-align: center;
+    user-select: none;
+}
+.layui-nav-img{
+    width: 40px;
+    height: 40px;
+}
+.text-avatar{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #009688;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    position: relative;
+    top: 5px;
+    margin-right: 8px;
+}
+.layui-side-scroll .userinfo{
+    border-bottom:1px solid #282b33
+}
